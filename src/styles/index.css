@@ -12,10 +12,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   height: 100vh;
-  font-family: '
-  Open Sans'
- , sans-serif;
+
+  font-family: 'Open Sans', sans-serif;
+ 
+  margin-top: 10rem;
 
  
- 
+
 }
