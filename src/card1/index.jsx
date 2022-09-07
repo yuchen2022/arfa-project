@@ -20,7 +20,7 @@ function CardOne({ image1 }) {
       <DateBox />
       <div className="WhiteBox">
         <br />
-        <span class="author">Jane Doe</span>
+        <span className="author">Jane Doe</span>
 
         <p className="boxingContent">
           Boxing icon has the will for a couple more fights
