@@ -30,7 +30,7 @@ export default function CardTwo({ image2 }) {
               release of the Survive soundtrack, out today.
             </p>
             <div className="ReadMore">
-              <a href="#">Read more</a>
+              <a href="#home">Read more</a>
               <FontAwesomeIcon icon={faRightLong} color="#fff" size="s" />
             </div>
           </>
