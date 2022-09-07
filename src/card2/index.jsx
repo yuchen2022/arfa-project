@@ -4,7 +4,7 @@ import Navbar from "./navbar";
 import "../styles/cards.css";
 import { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faArrowPointer, faRightLong } from "@fortawesome/free-solid-svg-icons";
+import { faRightLong } from "@fortawesome/free-solid-svg-icons";
 export default function CardTwo({ image2 }) {
   const [visible, setVisible] = useState(false);
   return (
